@@ -9,13 +9,13 @@ gkuer6<br>
 <br><br><br><br><br>
 
 
-<h3> 실행화면 </h3>
+<h3> 1. 기본화면 </h3>
 <p align = "center">
-![4429E902-8120-479F-8AF0-0E9158C82141_1_105_c](https://user-images.githubusercontent.com/64361457/106601010-7e1d0000-659e-11eb-8779-485d7d2d601d.jpeg) </p>
+![4429E902-8120-479F-8AF0-0E9158C82141_1_105_c](https://user-images.githubusercontent.com/64361457/106601010-7e1d0000-659e-11eb-8779-485d7d2d601d.jpeg)
 <br><br><br>
 
 
-<h3> 2. learnworld 설명 </h3>
+<h3> 2. txt파일 저장 </h3>
 <p align = "center">
 
 ![IMG_0553](https://user-images.githubusercontent.com/64361457/106600979-74939800-659e-11eb-99c8-0f97a205090b.PNG)
