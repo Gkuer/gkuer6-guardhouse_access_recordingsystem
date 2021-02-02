@@ -11,7 +11,7 @@ gkuer6<br>
 
 <h3> 1. 기본화면 </h3>
 <p align = "center">
-![4429E902-8120-479F-8AF0-0E9158C82141_1_105_c](https://user-images.githubusercontent.com/64361457/106601010-7e1d0000-659e-11eb-8779-485d7d2d601d.jpeg)
+  <img src="https://user-images.githubusercontent.com/64361457/106601010-7e1d0000-659e-11eb-8779-485d7d2d601d.jpeg">
 <br><br><br>
 
 
